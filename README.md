@@ -1,1 +1,1 @@
-# Training-SVM-with-Hinge-Loss-Using-Sub-gradient-Proximal-Gradient-Descent
+# Model-optimization-using-Subgradient-and-Proximal-gradient
