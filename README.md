@@ -1,1 +1,1 @@
-# SVM-optimization-using-Subgradient-and-Proximal-gradient
+# SVM-optimization-using-gradient-and-subgradient-descent
